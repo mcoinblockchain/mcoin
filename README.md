@@ -1,4 +1,4 @@
-# MNCCOIN_Source
+# mCOIN_Source
 Go Ethereum
 Official Golang implementation of the Ethereum protocol.
 
